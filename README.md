@@ -5,3 +5,8 @@
 -  [my try](Print%20a%20pattern%20without%20using%20any%20loop/my_try.php)
 
 
+## Check for Anagrams => 25-11-2019
+
+-  [problem](Check for Anagrams/the_problem.png) -  [source](https://edabit.com/challenge/CzaDoQogAr8xXG35z) 
+
+-  [my try](Check for Anagrams/my_try.php)
