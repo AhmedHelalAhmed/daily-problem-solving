@@ -7,6 +7,6 @@
 
 ## Check for Anagrams => 25-11-2019
 
--  [problem](Check for Anagrams/the_problem.png) -  [source](https://edabit.com/challenge/CzaDoQogAr8xXG35z) 
+-  [problem](Check%20for%20Anagrams/the_problem.png) -  [source](https://edabit.com/challenge/CzaDoQogAr8xXG35z) 
 
--  [my try](Check for Anagrams/my_try.php)
+-  [my try](Check%20for%20Anagrams/my_try.php)
