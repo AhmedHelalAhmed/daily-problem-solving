@@ -10,3 +10,11 @@
 -  [problem](Check%20for%20Anagrams/the_problem.png) -  [source](https://edabit.com/challenge/CzaDoQogAr8xXG35z) 
 
 -  [my try](Check%20for%20Anagrams/my_try.php)
+
+
+## Valid Hex Code => 25-11-2019
+
+-  [problem](Valid%20Hex%20Code/the_problem.png) -  [source](https://edabit.com/challenge/DuQegak2X6ZyYKPER) 
+
+-  [my try](Valid%20Hex%20Code/my_try.php)
+
