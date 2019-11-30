@@ -22,3 +22,9 @@
 -  [problem](Bitwise%20Operations/the_problem.png) -  [source](https://edabit.com/challenge/qtcQvEvwLWHHRvNKN) 
 
 -  [my try](Bitwise%20Operations/my_try.php)
+
+## Scoring System => 30-11-2019
+-  [problem](Scoring%20System/the_problem.png) -  [source](https://edabit.com/challenge/69zXjh5Y8xBjRAgi9) 
+
+-  [my try](Scoring%20System/my_try.php)
+
