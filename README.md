@@ -37,3 +37,9 @@
 -  [problem](Building%20a%20Staircase/the_problem.png) -  [source](https://edabit.com/challenge/tnwXK7vSCp8NbYXzn) 
 
 -  [my try](Building%20a%20Staircase/my_try.php)
+
+
+## Make a Circle with OOP => 6-12-2019
+-  [problem](Make%20a%20Circle%20with%20OOP/the_problem.png) -  [source](https://edabit.com/challenge/CNubhddXNa4j5X49H) 
+
+-  [my try](Make%20a%20Circle%20with%20OOP/my_try.php)
