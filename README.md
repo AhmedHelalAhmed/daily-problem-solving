@@ -28,3 +28,7 @@
 
 -  [my try](Scoring%20System/my_try.php)
 
+## An Introduction to the Map-Reduce Pattern => 6-12-2019
+-  [problem](An%20Introduction%20to%20the%20Map-Reduce%20Pattern/the_problem.png) -  [source](https://edabit.com/challenge/7KH4fTtn3RTnqMFDw) 
+
+-  [my try](An%20Introduction%20to%20the%20Map-Reduce%20Pattern/my_try.php)
