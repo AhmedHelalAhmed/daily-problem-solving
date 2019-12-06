@@ -48,3 +48,8 @@
 -  [problem](Array%20of%20Multiples/the_problem.png) -  [source](https://edabit.com/challenge/HrzMnufZLgPRq3jRy) 
 
 -  [my try](Array%20of%20Multiples/my_try.php)
+
+## Calculate the Median => 6-12-2019
+-  [problem](Calculate%20the%20Median/the_problem.png) -  [source](https://edabit.com/challenge/iyNDZDSnZ2gHsNpNW) 
+
+-  [my try](Calculate%20the%20Median/my_try.php)
