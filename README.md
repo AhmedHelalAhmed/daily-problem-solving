@@ -32,3 +32,8 @@
 -  [problem](An%20Introduction%20to%20the%20Map-Reduce%20Pattern/the_problem.png) -  [source](https://edabit.com/challenge/7KH4fTtn3RTnqMFDw) 
 
 -  [my try](An%20Introduction%20to%20the%20Map-Reduce%20Pattern/my_try.php)
+
+## Building a Staircase => 6-12-2019
+-  [problem](Building%20a%20Staircase/the_problem.png) -  [source](https://edabit.com/challenge/tnwXK7vSCp8NbYXzn) 
+
+-  [my try](Building%20a%20Staircase/my_try.php)
