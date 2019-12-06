@@ -53,3 +53,8 @@
 -  [problem](Calculate%20the%20Median/the_problem.png) -  [source](https://edabit.com/challenge/iyNDZDSnZ2gHsNpNW) 
 
 -  [my try](Calculate%20the%20Median/my_try.php)
+
+## White Spaces Between Lower and Uppercase Letters => 6-12-2019
+-  [problem](White%20Spaces%20Between%20Lower%20and%20Uppercase%20Letters/the_problem.png) -  [source](https://edabit.com/challenge/22SQvMBYSzxtb24Fc) 
+
+-  [my try](White%20Spaces%20Between%20Lower%20and%20Uppercase%20Letters/my_try.php)
