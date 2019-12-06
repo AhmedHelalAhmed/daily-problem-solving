@@ -43,3 +43,8 @@
 -  [problem](Make%20a%20Circle%20with%20OOP/the_problem.png) -  [source](https://edabit.com/challenge/CNubhddXNa4j5X49H) 
 
 -  [my try](Make%20a%20Circle%20with%20OOP/my_try.php)
+
+## Array of Multiples => 6-12-2019
+-  [problem](Array%20of%20Multiples/the_problem.png) -  [source](https://edabit.com/challenge/HrzMnufZLgPRq3jRy) 
+
+-  [my try](Array%20of%20Multiples/my_try.php)
