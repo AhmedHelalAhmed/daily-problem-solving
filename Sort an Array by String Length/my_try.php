@@ -29,3 +29,13 @@ echo '<br>=========<br>';
 
 echo implode(' - ', sortByLength(["Turing", "Einstein", "Jung"]));
 // ["Jung", "Turing", "Einstein"]
+
+
+function sortByLengthByOther($arr)
+{
+    usort($arr, function ($a, $b) {
+        return strlen($a) <=> strlen($b);
+    });
+
+    return $arr;
+}
