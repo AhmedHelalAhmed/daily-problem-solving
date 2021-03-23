@@ -75,3 +75,9 @@
 - [problem](Sort%20an%20Array%20by%20String%20Length/the_problem.png) - [source](https://edabit.com/challenge/yzn9MYzWiFxy7NEyN)
 
 - [my try](Sort%20an%20Array%20by%20String%20Length/my_try.php)
+
+## Diagonal Difference
+
+- [problem](Diagonal%20Difference/the_problem.png) - [source](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+
+- [my try](Diagonal%20Difference/my_try.php)
