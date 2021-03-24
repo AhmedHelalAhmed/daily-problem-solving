@@ -81,3 +81,10 @@
 - [problem](Diagonal%20Difference/the_problem.png) - [source](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 
 - [my try](Diagonal%20Difference/my_try.php)
+
+
+## Diagonal Difference
+
+- [problem](Plus%20Minus/the_problem.png) - [source](https://www.hackerrank.com/challenges/plus-minus/problem)
+
+- [my try](Plus%20Minus/my_try.php)
