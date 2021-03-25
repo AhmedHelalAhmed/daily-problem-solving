@@ -82,9 +82,14 @@
 
 - [my try](Diagonal%20Difference/my_try.php)
 
-
 ## Diagonal Difference
 
 - [problem](Plus%20Minus/the_problem.png) - [source](https://www.hackerrank.com/challenges/plus-minus/problem)
 
 - [my try](Plus%20Minus/my_try.php)
+
+## Staircase
+
+- [problem](Staircase/the_problem.png) - [source](https://www.hackerrank.com/challenges/staircase/problem)
+
+- [my try](Staircase/my_try.php)
