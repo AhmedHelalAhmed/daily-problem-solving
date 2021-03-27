@@ -93,3 +93,9 @@
 - [problem](Staircase/the_problem.png) - [source](https://www.hackerrank.com/challenges/staircase/problem)
 
 - [my try](Staircase/my_try.php)
+
+## Mini-Max Sum
+
+- [problem](Mini-Max%20Sum/the_problem.png) - [source](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+
+- [my try](Mini-Max%20Sum/my_try.php)
