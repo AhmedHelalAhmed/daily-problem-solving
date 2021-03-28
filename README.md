@@ -105,3 +105,9 @@
 - [problem](Birthday%20Cake%20Candles/the_problem.png) - [source](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 
 - [my try](Birthday%20Cake%20Candles/my_try.php)
+
+## Extra Long Factorials
+
+- [problem](Extra%20Long%20Factorials/the_problem.png) - [source](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
+
+- [my try](Extra%20Long%20Factorials/my_try.php)
