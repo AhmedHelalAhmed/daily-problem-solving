@@ -111,3 +111,9 @@
 - [problem](Extra%20Long%20Factorials/the_problem.png) - [source](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 
 - [my try](Extra%20Long%20Factorials/my_try.php)
+
+## Time Conversion
+
+- [problem](Time%20Conversion/the_problem.png) - [source](https://www.hackerrank.com/challenges/time-conversion/problem)
+
+- [my try](Time%20Conversion/my_try.php)
