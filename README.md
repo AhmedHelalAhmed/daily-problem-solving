@@ -117,3 +117,9 @@
 - [problem](Time%20Conversion/the_problem.png) - [source](https://www.hackerrank.com/challenges/time-conversion/problem)
 
 - [my try](Time%20Conversion/my_try.php)
+
+## Grading Students
+
+- [problem](Grading%20Students/the_problem.png) - [source](https://www.hackerrank.com/challenges/grading/problem)
+
+- [my try](Grading%20Students/my_try.php)
