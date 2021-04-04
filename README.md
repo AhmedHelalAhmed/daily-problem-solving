@@ -123,3 +123,9 @@
 - [problem](Grading%20Students/the_problem.png) - [source](https://www.hackerrank.com/challenges/grading/problem)
 
 - [my try](Grading%20Students/my_try.php)
+
+## Sherlock and Squares
+
+- [problem](Sherlock%20and%20Squares/the_problem.png) - [source](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
+
+- [my try](Sherlock%20and%20Squares/my_try.php)
