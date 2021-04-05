@@ -129,3 +129,9 @@
 - [problem](Sherlock%20and%20Squares/the_problem.png) - [source](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
 
 - [my try](Sherlock%20and%20Squares/my_try.php)
+
+## Apple and Orange
+
+- [problem](Apple%20and%20Orange/the_problem.png) - [source](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+
+- [my try](Apple%20and%20Orange/my_try.php)
