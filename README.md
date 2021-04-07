@@ -141,3 +141,9 @@
 - [problem](Service%20Lane/the_problem.png) - [source](https://www.hackerrank.com/challenges/service-lane/problem)
 
 - [my try](Service%20Lane/my_try.php)
+
+## Lisa's Workbook
+
+- [problem](Lisas%20Workbook/the_problem.png) - [source](https://www.hackerrank.com/challenges/lisa-workbook/problem)
+
+- [my try](Lisas%20Workbook/my_try.php)
